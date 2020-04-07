@@ -1,0 +1,19 @@
+{
+    "name": "study",
+    "version": "1.0.0",
+    "description": "Study JavaScript and express",
+    "main": "homework.js",
+    "scripts": {
+        "test": "echo \"Error\" && exit 1",
+        "start": "node homework.js",
+        "start-server": "node homework.js"
+    },
+    "author": "Bryan",
+    "license": "copyleft",
+    "devDependencies": {
+        "nodemon": "^1.18.3"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
